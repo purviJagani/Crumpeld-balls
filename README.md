@@ -1,1 +1,2 @@
-# Crumpeld-balls
+class 25
+MY TRASH CAN
